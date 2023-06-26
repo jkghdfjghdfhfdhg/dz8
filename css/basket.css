@@ -1,0 +1,47 @@
+.menu_top_basket_cont   {
+    display: flex;
+}
+
+.menu_top_basket_cont>ul>li   {
+    color: black;
+    margin-right: 20px;
+}
+
+.menu_top_basket_cont>ul {
+    display: flex;
+    font-family: 'Gilroy', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.basket_body_container  {
+    margin-top: 50px;
+    padding: 50px;
+    background-color: aqua;
+}
+
+.title_basket_top   {
+  font-family: 'Gilroy', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 21px;  
+}
+
+
+.btn_basket_del {
+    width: 150px;
+    height: 45px;
+    border-color: #F9B300;
+    color: #F9B300;
+    border-radius: 5px;
+    background-color: none;
+}
+.basket_title_button    {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,7 @@
+/node_modules
+ /.history
+  /history
+You, last week-project
+ /prepros.config
+/package-lock.json
+ /.idea
